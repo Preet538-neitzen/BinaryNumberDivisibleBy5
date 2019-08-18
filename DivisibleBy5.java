@@ -22,7 +22,7 @@ class DivisibleBy5
 			binaryArr[i] = sc.nextInt();
 		}
     
-        System.out.println("Here are the binary number(s) divisible by 5");
+        	System.out.println("Here are the binary number(s) divisible by 5");
 
 		for(int i=0; i<n; i++)
 		{
